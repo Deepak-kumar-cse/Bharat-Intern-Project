@@ -1,11 +1,13 @@
-Titanic Classification Project
-Overview
+#Titanic Classification Project 
 
+#Overview
 This project is a classification task based on the famous Titanic dataset. The goal is to predict whether a passenger survived or not based on various features such as age, sex, passenger class, etc.
-Dataset
+
+#Dataset
 
 The dataset used in this project is the Titanic dataset, which is a publicly available dataset often used for teaching and learning purposes. It contains information about passengers aboard the Titanic, including whether they survived or not.
-Features
+
+#Features
 
     Survived: 1 if the passenger survived, 0 otherwise (target variable)
     Pclass: Passenger class (1st, 2nd, or 3rd)
