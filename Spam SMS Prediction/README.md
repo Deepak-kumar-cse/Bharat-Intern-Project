@@ -16,4 +16,4 @@ Known on internet as **Deepak Kumar**
 
 ## Email Me :e-mail:
 
-[<img target="_blank" src="https://freepngimg.com/download/icon/symbol/64685-box-icons-symbol-computer-address-email-gmail.png" title="Mail me">](mailto:cse.abhey@gmail.com)
+[<img target="_blank" src="[https://freepngimg.com/download/icon/symbol/64685-box-icons-symbol-computer-address-email-gmail.png](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Mail me">](mailto:cse.abhey@gmail.com)
