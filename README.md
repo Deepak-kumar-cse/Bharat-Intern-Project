@@ -7,7 +7,9 @@ This project is part of an internship at Bharat Intern. Bharat Intern provides o
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*mW_viyMFh1RCJ3Kj.jpg" alt="Titanic Classification" width="200">
 </p>
-# [1.Titanic Classification Project ](https://github.com/Deepak-kumar-cse/Bharat-Intern-Project/tree/main/Titanic%20Classification%20Project)
+
+# [1.Titanic Classification Project](https://github.com/Deepak-kumar-cse/Bharat-Intern-Project/tree/main/Titanic%20Classification%20Project)
+
 ## Overview
 This project is a classification task based on the famous Titanic dataset. The goal is to predict whether a passenger survived or not based on various features such as age, sex, passenger class, etc.
 
@@ -29,7 +31,7 @@ This project is a classification task based on the famous Titanic dataset. The g
   <img src="https://cdn1.vectorstock.com/i/1000x1000/76/85/spam-message-rubber-stamp-vector-12357685.jpg" alt="Animated GIF" width="200">
   </p>
   
-# [2.Spam SMS Prediction ](https://github.com/Deepak-kumar-cse/Bharat-Intern-Project/tree/main/Spam%20SMS%20Prediction)
+  # [2.Spam SMS Prediction ](https://github.com/Deepak-kumar-cse/Bharat-Intern-Project/tree/main/Spam%20SMS%20Prediction)
 This project is aimed at predicting whether a given SMS message is spam or not. It utilizes machine learning algorithms to analyze the text data and classify messages accordingly.
 
 # Motivation :monocle_face:
