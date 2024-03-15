@@ -25,3 +25,15 @@ This project is a classification task based on the famous Titanic dataset. The g
     Fare: Fare paid for the ticket
     Cabin: Cabin number
     Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
+
+# 2.Spam SMS Prediction 
+This project is aimed at predicting whether a given SMS message is spam or not. It utilizes machine learning algorithms to analyze the text data and classify messages accordingly.
+
+# Motivation :monocle_face:
+  - Day by day people get a lot of sms, In those sms include are spam and helpful message. In today's runaway life we don't have enough time to recognize these sms whether it is spam or not, so i have develop a machine learning programme using kaggle dataset which will split the sms. Hope this programme are helpful for you. 
+
+## Technologies Used
+- Python
+- Scikit-learn
+- Pandas
+- Jupyter Notebook (optional, for exploring data and training the model interactively)
