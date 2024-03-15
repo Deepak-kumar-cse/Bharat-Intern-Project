@@ -12,8 +12,8 @@ This project is part of an internship at Bharat Intern. Bharat Intern provides o
 ## Overview
 This project is a classification task based on the famous Titanic dataset. The goal is to predict whether a passenger survived or not based on various features such as age, sex, passenger class, etc.
 
-# Features
-[fdfdf](https://github.com/Deepak-kumar-cse/Bharat-Intern-Project/tree/main/Titanic%20Classification%20Project)
+[
+# Features](https://github.com/Deepak-kumar-cse/Bharat-Intern-Project/tree/main/Titanic%20Classification%20Project)
     Survived: 1 if the passenger survived, 0 otherwise (target variable)
     Pclass: Passenger class (1st, 2nd, or 3rd)
     Name: Passenger's name
