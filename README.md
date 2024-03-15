@@ -26,6 +26,11 @@ This project is a classification task based on the famous Titanic dataset. The g
     Cabin: Cabin number
     Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
+
+  <p align="center">
+  <img src="https://cdn1.vectorstock.com/i/1000x1000/76/85/spam-message-rubber-stamp-vector-12357685.jpg" alt="Animated GIF" width="200">
+  </p>
+
 # 2.Spam SMS Prediction 
 This project is aimed at predicting whether a given SMS message is spam or not. It utilizes machine learning algorithms to analyze the text data and classify messages accordingly.
 
