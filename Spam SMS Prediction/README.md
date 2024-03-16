@@ -1,3 +1,6 @@
+  <p align="center">
+  <img src="https://cdn1.vectorstock.com/i/1000x1000/76/85/spam-message-rubber-stamp-vector-12357685.jpg" alt="Animated GIF" width="200">
+  </p>
 # SPAM SMS Prediction :notebook:
 In this repo i have created a SMS Spam Prediction project in machine learning using NLP, and i am using [nltk](https://pypi.org/project/nltk/) Library for NLP.
 
