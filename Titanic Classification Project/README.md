@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*mW_viyMFh1RCJ3Kj.jpg" alt="Titanic Classification" width="200">
+</p>
+
+
 # Titanic Classification Project 
 
 ## Overview
